@@ -10,4 +10,4 @@
 
 -a maginitic relay on the high voltage line controlled by the microcontroller
 
--the microcontroller board isolated by optocouplers with the high voltage board
+-the microcontroller board isolated from the high voltage board with optocouplers
